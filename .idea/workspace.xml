@@ -15,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/wangjunjie/simplerpc/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -24,6 +24,16 @@
                 <element signature="e#977#978#0" expanded="true" />
                 <element signature="e#1017#1018#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/main/java/wangjunjie/simplerpc/client/RpcClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/wangjunjie/simplerpc/RpcExporter.java" />
         <option value="$PROJECT_DIR$/src/test/java/wangjunjie/simplerpc/AppTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -310,7 +321,7 @@
       <option name="presentableId" value="Default" />
       <updated>1524302841050</updated>
       <workItem from="1524302842696" duration="2608000" />
-      <workItem from="1524305495066" duration="889000" />
+      <workItem from="1524305495066" duration="1068000" />
     </task>
     <servers />
   </component>
@@ -347,7 +358,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3497000" />
+    <option name="totallyTimeSpent" value="3676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -529,6 +540,14 @@
             <element signature="e#977#978#0" expanded="true" />
             <element signature="e#1017#1018#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
